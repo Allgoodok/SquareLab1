@@ -38,7 +38,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.kpi.labs.App</mainClass>
+              <mainClass>com.kpi.lab1.App</mainClass>
             </manifest>
           </archive>
         </configuration>
